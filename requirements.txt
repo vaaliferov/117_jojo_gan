@@ -1,0 +1,10 @@
+dlib
+lpips
+numpy
+scipy
+torch
+pillow
+matplotlib
+torchvision
+opencv-python
+python-telegram-bot
